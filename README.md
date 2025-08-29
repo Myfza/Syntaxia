@@ -1,2 +1,2 @@
 # Syntaxia
-Under development 
+Under development (Beta)
